@@ -1,1 +1,2 @@
 USING nano to create a txt file
+type a second line of text 
